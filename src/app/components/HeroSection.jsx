@@ -22,13 +22,13 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Judy",
+                "Aman Kumar",
                 1000,
-                "Web Developer",
+                "Full Stack Developer",
                 1000,
-                "Mobile Developer",
+                "MERN Stack Developer",
                 1000,
-                "UI/UX Designer",
+                "Data Engineering and ML",
                 1000,
               ]}
               wrapper="span"
@@ -37,8 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+            email at amankumar.er6174@gmail.com, phone.no +91-9797052979.
           </p>
           <div>
             <Link
